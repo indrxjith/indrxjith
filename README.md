@@ -1,6 +1,19 @@
-# 💫 About Me:
-<br>👋 Hey there! I'm Indrajith<br>🔍 Data Analyst | Problem Solver | Tech Enthusiast<br><br>🔭 I’m currently working on: Data-driven projects, exploring patterns & insights  <br>🤝 I’m looking to collaborate on: Data analytics, Python projects, and business intelligence  <br>🤝 I’m looking for help with: Advanced machine learning techniques & data visualization  <br>🌱 I’m currently learning: Deep data storytelling & AI-powered analytics  <br>💬 Ask me about: Data analysis, Python, and business strategy  <br>⚡ Fun fact: I see patterns in everything—even in my coffee foam! ☕  <br><br>
+# About Me
 
+I am a Data Analyst with a strong focus on transforming complex datasets into clear, actionable insights that support business decision-making. My expertise includes data cleaning, statistical analysis, and developing data visualizations that communicate key information effectively.
+
+I am proficient in Python, SQL, and data visualization tools such as Tableau and Power BI. I work on building reliable, well-documented, and efficient data solutions that deliver measurable results.
+
+## Current Focus
+- Data Analysis and Insight Generation  
+- Business Intelligence and Reporting  
+- Development of Clean, Reproducible Data Projects  
+- Advanced Data Visualization and Storytelling  
+
+## Areas of Interest
+- Analytical Problem Solving  
+- Forecasting and Predictive Analytics  
+- AI Integration in Data Workflows  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/IndrajithPillai) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@IndrajithPillai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:indrajithwrites@gmail.com) 
