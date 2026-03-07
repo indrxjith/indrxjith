@@ -1,8 +1,8 @@
 <div align="center">
 
 <!-- 🕷️ SPIDER-MAN BANNER GIF — upload spidey-banner.gif to your repo first -->
-![banner](spidey-banner.g![spidey-banner](https://github.com/user-attachments/assets/fc3d4819-48bb-45a2-9834-f6ea39ffe713)
-if)
+(https://github.com/user-attachments/assets/fc3d4819-48bb-45a2-9834-f6ea39ffe713)
+
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
