@@ -1,14 +1,14 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20&fontColor=fff&fontSize=50&text=indrxjith&animation=twinkling&fontAlignY=40&desc=Mathematics%20%7C%20Quant%20Finance%20%7C%20Probability&descAlignY=58&descSize=18&descColor=ffffffaa" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0a0a0a,100:111111&fontColor=ffffff&fontSize=42&fontAlignY=38&text=Indrajith%20%2F%20indrxjith&desc=Mathematics%20%E2%80%A2%20Quantitative%20Finance%20%E2%80%A2%20Probability&descSize=14&descColor=666666&descAlignY=60" width="100%" />
-
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Math+Graduate+%E2%80%94+Aspiring+Quant+Researcher;Stochastic+Calculus+%C2%B7+Derivatives+%C2%B7+Risk+Theory;Thinking+in+probabilities.+Playing+a+long+game.;%22Be+less+wrong+than+the+market.%22)
 
 <br/>
 
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=15&duration=3000&pause=1500&color=888888&center=true&vCenter=true&width=600&lines=Math+graduate+building+toward+quant+research.;Studying+stochastic+calculus+%26+derivatives+pricing.;Thinking+in+probabilities.+Playing+a+long+game.)
+[![LinkedIn](https://img.shields.io/badge/-Indrajith%20Pillai-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/indrxjith)
+[![GitHub](https://img.shields.io/badge/-indrxjith-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/indrxjith)
+![Visitors](https://komarev.com/ghpvc/?username=indrxjith&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 
 </div>
 
@@ -16,87 +16,50 @@
 
 ---
 
-<br/>
+<div align="center">
 
-**I'm a mathematics graduate from Kerala, India, working my way into quantitative finance.** I'm not the smartest person in the room — but I'm consistent, intellectually honest, and obsessed with understanding how probability and risk govern markets. My focus right now is building a strong mathematical foundation before anything else.
+## 〈 about 〉
 
-<br/>
+</div>
 
----
+```python
+class indrxjith:
+    name        = "Indrajith"
+    location    = "Kerala, India"
+    background  = "Mathematics Graduate"
+    building_toward = "Quantitative Research / Systematic Trading"
 
-<br/>
+    currently_studying = [
+        "Stochastic Calculus  (Shreve Vol I & II)",
+        "Derivatives Pricing  (Hull)",
+        "Risk & Fat Tails     (Taleb — Incerto Series)",
+        "Mathematical Finance (Joshi)",
+    ]
 
-## Focus Areas
-
+    tools   = ["Python", "NumPy", "Pandas", "SciPy", "LaTeX", "Git"]
+    learning = ["C++", "ML for Finance", "Algorithmic Trading"]
+    mantra  = "Consistency compounds. Play the long game."
 ```
-Stochastic Calculus          Itô calculus, SDEs, Brownian motion
-Options & Derivatives        Black-Scholes, Greeks, pricing theory  
-Probability Theory           Measure theory, distributions, Bayesian inference
-Decision Theory              Expected utility, risk, fat tails (Taleb)
-Quantitative Python          NumPy, Pandas, SciPy, simulation
-```
 
 <br/>
 
 ---
-
-<br/>
-
-## Currently Reading
-
-| Book | Author | Status |
-|------|--------|--------|
-| Stochastic Calculus for Finance I & II | Shreve | 📖 Active |
-| Options, Futures & Other Derivatives | Hull | 📖 Active |
-| The Incerto Series | Taleb | 📖 Active |
-| The Concepts & Practice of Mathematical Finance | Joshi | 🔜 Next |
-| Algorithmic Trading | Ernie Chan | 🔜 Queued |
-
-<br/>
-
----
-
-<br/>
-
-## Projects
-
-> Work in progress. Quality over quantity.
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| Monte Carlo Option Pricer | Black-Scholes pricing via simulation | ✅ Done |
-| Probability Intuition Notebooks | Visualising distributions, CLT, LLN | ✅ Done |
-| Options Greeks Dashboard | Real-time Greeks across strike/expiry | 🔨 Building |
-| Backtesting Engine | Clean, modular strategy tester | 📋 Planned |
-| Volatility Surface Model | Local vol / implied vol surface fitting | 📋 Planned |
-
-<br/>
-
----
-
-<br/>
-
-## Tools
-
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-111111?style=flat-square&logo=jupyter&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-111111?style=flat-square&logo=latex&logoColor=white)
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)
-![C++](https://img.shields.io/badge/C++-111111?style=flat-square&logo=cplusplus&logoColor=white)
-
-<br/>
-
----
-
-<br/>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=indrxjith&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=555555&text_color=888888&hide_title=false&rank_icon=github)
-&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indrxjith&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888)
+## 〈 projects 〉
+
+</div>
+
+<div align="center">
+
+| Project | What it does | Stack | Status |
+|:--------|:-------------|:------|:------:|
+| 🎲 Monte Carlo Option Pricer | Black-Scholes pricing via simulation | Python, NumPy | ✅ |
+| 📊 Probability Notebooks | CLT, LLN, distributions — visualised | Python, Matplotlib | ✅ |
+| 📐 Options Greeks Dashboard | Greeks across strike & expiry | Python, Plotly | 🔨 |
+| ⚙️ Backtesting Engine | Modular strategy backtester | Python | 📋 |
+| 🌊 Volatility Surface Model | Implied vol surface fitting | Python, SciPy | 📋 |
 
 </div>
 
@@ -104,20 +67,52 @@ Quantitative Python          NumPy, Pandas, SciPy, simulation
 
 ---
 
-<br/>
-
 <div align="center">
 
-*"It's not about being the smartest. It's about being less wrong, more often, over a long horizon."*
+## 〈 stats 〉
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Indrajith%20Pillai-0a66c2?style=flat-square&logo=linkedin)](https://linkedin.com/in/indrxjith)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=indrxjith&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&icon_color=A78BFA&text_color=cccccc)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-indrxjith-333?style=flat-square&logo=github)](https://github.com/indrxjith)
+![Streak](https://streak-stats.demolab.com?user=indrxjith&hide_border=true&background=0d0d0d&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=888888&dates=555555&sideNums=cccccc&currStreakNum=ffffff)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:111111,100:0a0a0a&section=footer" width="100%" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=indrxjith&bg_color=0d0d0d&color=A78BFA&line=7c3aed&point=ffffff&area=true&hide_border=true)
 
 </div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 〈 stack 〉
+
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=A78BFA)
+![NumPy](https://img.shields.io/badge/NumPy-0d0d0d?style=for-the-badge&logo=numpy&logoColor=A78BFA)
+![Pandas](https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=A78BFA)
+![SciPy](https://img.shields.io/badge/SciPy-0d0d0d?style=for-the-badge&logo=scipy&logoColor=A78BFA)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d0d0d?style=for-the-badge&logo=jupyter&logoColor=A78BFA)
+![LaTeX](https://img.shields.io/badge/LaTeX-0d0d0d?style=for-the-badge&logo=latex&logoColor=A78BFA)
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=A78BFA)
+![C++](https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=A78BFA)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+*"You don't need to predict the future.*
+*You need to survive long enough for the probabilities to play out."*
+
+<br/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,11,20&section=footer&animation=twinkling" width="100%"/>
