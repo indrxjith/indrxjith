@@ -1,19 +1,12 @@
 <div align="center">
 
-```
-██╗███╗   ██╗██████╗ ██████╗ ██╗  ██╗    ██╗██╗████████╗██╗  ██╗
-██║████╗  ██║██╔══██╗██╔══██╗╚██╗██╔╝    ██║██║╚══██╔══╝██║  ██║
-██║██╔██╗ ██║██║  ██║██████╔╝ ╚███╔╝     ██║██║   ██║   ███████║
-██║██║╚██╗██║██║  ██║██╔══██╗ ██╔██╗██   ██║██║   ██║   ██╔══██║
-██║██║ ╚████║██████╔╝██║  ██║██╔╝ ██╗╚█████╔╝██║   ██║   ██║  ██║
-╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20[Your%20Name]&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Quant%20Developer%20%7C%20ML%20Engineer%20%7C%20Finance%20Nerd&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFB2&center=true&vCenter=true&width=600&lines=Financial+Analyst+%7C+Probability+%26+Markets;Quant+Finance+%7C+Decision+Theory;Learning+every+single+day.;The+edge+is+in+the+process.)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+quantitative+trading+systems;Turning+data+into+alpha;Monte+Carlo+%7C+Black-Scholes+%7C+Factor+Models;Machine+learning+meets+financial+markets)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,113 +14,93 @@
 
 <div align="center">
 
-> *"The market is a device for transferring money from the impatient to the patient."*
-> — Warren Buffett
->
-> *— but I'm here to price the impatience.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/yourprofile)
+[![QuantConnect](https://img.shields.io/badge/QuantConnect-%23000000.svg?style=for-the-badge&logo=quantconnect&logoColor=white)](https://quantconnect.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 
 </div>
 
----
+<br/>
 
-## `$ whoami`
+## ⚡ What I Do
 
-```python
-class indrxjith:
-    name        = "indrxjith"
-    role        = "Math Graduate → Aspiring Quant"
-    location    = "Kerala, India"
-    
-    interests   = [
-        "Quantitative Finance",
-        "Stochastic Processes",
-        "Probability Theory",
-        "Decision Theory",
-        "Financial Markets",
-    ]
-    
-    currently   = {
-        "learning"  : ["Stochastic Calculus", "Options Pricing", "ML for Finance"],
-        "building"  : "A foundation strong enough to trade on",
-        "reading"   : "Hull · Shreve · Taleb",
-    }
-    
-    philosophy  = "You don't need to know everything. You need to be less wrong than the market."
-```
+> I sit at the intersection of **quantitative finance** and **machine learning** — designing data-driven systems that extract signal from noise, price risk, and build edge in financial markets.
 
----
+<br/>
 
-## `$ ls skills/`
+## 🧠 Skills
+
+### 🐍 Python & Data Stack
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-4B8BBE?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+### 📈 Quant & Finance
+![Portfolio Optimization](https://img.shields.io/badge/Portfolio%20Optimization-6D28D9?style=flat-square)
+![Factor Models](https://img.shields.io/badge/Factor%20Models-7C3AED?style=flat-square)
+![Backtesting](https://img.shields.io/badge/Backtesting-8B5CF6?style=flat-square)
+![Black-Scholes](https://img.shields.io/badge/Options%20Pricing%20%7C%20Black--Scholes-A78BFA?style=flat-square)
+![VaR/CVaR](https://img.shields.io/badge/VaR%20%2F%20CVaR-C4B5FD?style=flat-square)
+![Monte Carlo](https://img.shields.io/badge/Monte%20Carlo%20Simulation-DDD6FE?style=flat-square&logoColor=black)
+
+### 🤖 Machine Learning
+![XGBoost](https://img.shields.io/badge/XGBoost-006600?style=flat-square)
+![LightGBM](https://img.shields.io/badge/LightGBM-3CB371?style=flat-square)
+![LSTM](https://img.shields.io/badge/LSTM%20%7C%20Deep%20Learning-FF6B6B?style=flat-square)
+![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-FF8C42?style=flat-square)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-FFD166?style=flat-square&logoColor=black)
+![Walk-Forward Validation](https://img.shields.io/badge/Walk--Forward%20Validation-06D6A0?style=flat-square&logoColor=black)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Bloomberg Terminal](https://img.shields.io/badge/Bloomberg%20Terminal-000000?style=flat-square&logo=bloomberg&logoColor=white)
+![QuantConnect](https://img.shields.io/badge/QuantConnect-000000?style=flat-square)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+
+<br/>
+
+## 🚀 Featured Project
 
 <div align="center">
 
-| Domain | Tools |
+| | |
 |---|---|
-| 📐 Mathematics | Probability · Statistics · Linear Algebra · Calculus |
-| 📊 Finance | Options Theory · Risk · Portfolio Analysis · Derivatives |
-| 💻 Programming | Python · NumPy · Pandas · Matplotlib · (learning) C++ |
-| 🧠 Frameworks | Bayesian Reasoning · Decision Theory · Game Theory |
+| **[📊 Project Name — e.g. Equity Factor Engine](https://github.com/yourname/project)** | A production-grade multi-factor equity model featuring Fama-French factor construction, walk-forward backtesting, and Sharpe-optimized portfolio allocation. Built with Python, pandas, and scikit-learn. Deployed via FastAPI + Streamlit. |
 
 </div>
 
----
+> ✦ **Stack:** Python · XGBoost · Statsmodels · Plotly · FastAPI · Streamlit  
+> ✦ **Highlights:** Walk-forward validation · Rolling VaR/CVaR · Factor IC analysis · Live P&L dashboard
 
-## `$ cat current_study.log`
+<br/>
 
-```
-[ACTIVE]   Stochastic Calculus for Finance — Shreve
-[ACTIVE]   Options, Futures & Other Derivatives — Hull
-[ACTIVE]   Python for Quantitative Finance
-[QUEUED]   The Concepts and Practice of Mathematical Finance — Joshi
-[QUEUED]   Algorithmic Trading strategies
-[READING]  Incerto Series — N.N. Taleb
-```
-
----
-
-## `$ git log --oneline --graph`
-
-```
-* 🧮  Deep-diving stochastic calculus
-* 📈  Built first Monte Carlo option pricer
-* 🎲  Studied Bayesian inference & decision trees  
-* 🎓  Completed Math graduation
-* 🌱  Discovered quant finance rabbit hole
-* ⚡  First line of Python written
-```
-
----
-
-## `$ ping me`
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-indrxjith-00FFB2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/indrxjith)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/indrxjith)
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165"/>
 
 </div>
 
----
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=indrxjith&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FFB2&icon_color=00FFB2&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=indrxjith&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FFB2&text_color=ffffff)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="60%"/>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=indrxjith&color=00FFB2&style=for-the-badge&label=PROFILE+VIEWS)
-
-```
-Not the smartest in the room — yet.
-But I show up, I grind, and I'm playing a long game.
-```
-
-*— indrxjith*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
 </div>
