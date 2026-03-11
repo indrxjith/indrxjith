@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20I%27m%20Indrajith&fontSize=52&fontColor=fff&fontAlignY=38&desc=Financial%20Analyst%20%7C%20Probability%2C%20Markets%20%26%20Decision%20Theory%20%7C%20Quant%20Finance&descAlignY=58&descSize=18" width="100%"/>
+![header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=99999&color=A78BFA&center=true&vCenter=true&width=800&height=80&lines=Hey%2C+I%27m+Indrajith+%F0%9F%91%8B)
+
+![subheader](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=99999&color=C4B5FD&center=true&vCenter=true&width=800&height=40&lines=Financial+Analyst+%7C+Probability%2C+Markets+%26+Decision+Theory+%7C+Quant+Finance)
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
@@ -113,8 +117,8 @@
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
-
+<sub>Built with 🖤 by Indrajith</sub>
 </div>
