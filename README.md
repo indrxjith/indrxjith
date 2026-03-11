@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Indrajith&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Financial%20Analyst%20%7C%20Probability%2C%20Markets%20%26%20Decision%20Theory%20%7C%20Quant%20Finance&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Hey%2C%20I%27m%20Indrajith&fontSize=52&fontColor=fff&fontAlignY=38&desc=Quant%20Developer%20%7C%20ML%20Engineer%20%7C%20Finance%20Nerd&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
@@ -69,16 +69,30 @@
 
 ## 🚀 Featured Project
 
+### [📊 Quantitative Portfolio Optimization & Rolling Backtest](https://github.com/indrxjith/quant-portfolio-optimization)
+
+> A full quant research pipeline — from raw data to risk-adjusted returns — with Monte Carlo optimization, efficient frontier construction, and rigorous out-of-sample validation.
+
 <div align="center">
 
-| | |
-|---|---|
-| **[📊 Project Name — e.g. Equity Factor Engine](https://github.com/yourname/project)** | A production-grade multi-factor equity model featuring Fama-French factor construction, walk-forward backtesting, and Sharpe-optimized portfolio allocation. Built with Python, pandas, and scikit-learn. Deployed via FastAPI + Streamlit. |
+| Metric | Result |
+|--------|--------|
+| 📈 Rolling CAGR | **25%+** |
+| ⚡ Sharpe Ratio | **~1.0** |
+| 🛡️ Sortino Ratio | **> 1.0** |
+| 🏆 Benchmark | **Outperforms SPY** |
 
 </div>
 
-> ✦ **Stack:** Python · XGBoost · Statsmodels · Plotly · FastAPI · Streamlit  
-> ✦ **Highlights:** Walk-forward validation · Rolling VaR/CVaR · Factor IC analysis · Live P&L dashboard
+**What's inside:**
+- 🎲 Monte Carlo simulation — 2,000 portfolios per rebalance cycle
+- 📉 Efficient Frontier visualization with optimal Sharpe portfolio
+- 🔄 Rolling backtest — 5-year train · 1-year test · annual rebalance
+- 📐 Full risk suite — VaR, CVaR, Sharpe, Sortino, drawdown analysis
+- 📊 Covariance & correlation matrix analysis
+
+> ✦ **Stack:** Python · Pandas · NumPy · SciPy · Plotly · Statsmodels  
+> ✦ **Optimization:** Maximize Sharpe Ratio via Monte Carlo · Walk-forward validated
 
 <br/>
 
